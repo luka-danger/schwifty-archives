@@ -1,4 +1,4 @@
-import { loadPage } from "./app.js"
+import { loadPage } from "./loadPage.js"
 
 export function pagination(info) {
     const pagination = document.querySelector('#pagination')

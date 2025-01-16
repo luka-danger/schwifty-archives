@@ -1,4 +1,4 @@
-import { loadPage } from "./app.js"
+import { loadPage } from "./loadPage.js"
 
 let url = 'https://rickandmortyapi.com/api/character'
 
