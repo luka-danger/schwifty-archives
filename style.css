@@ -5,7 +5,8 @@ body {
 }
 
 #container,
-#pagination {
+#pagination,
+#searchInput {
     margin-bottom: 1.5rem;
 }
 
@@ -13,7 +14,14 @@ button {
     font-size: 1.25rem;
     border-radius: 5px;
     padding: 5px;
-    width: 5em;
+    width: 8em;
     cursor: pointer;
     font-weight: bold;
   }
+
+#searchInput {
+    font-size: 1.25rem;
+    border-radius: 5px;
+    padding: 5px;
+    width: 15em;
+}
