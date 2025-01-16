@@ -2,6 +2,7 @@ body {
     background-color: lightblue;
     margin: 0;
     text-align: center;
+    width: 100vw;
 }
 
 h1 {
@@ -32,4 +33,26 @@ button {
     border-radius: 5px;
     padding: 5px;
     width: 15em;
+}
+
+.footer {
+    padding: 20px;
+    background-color: rgba(211, 211, 211, 0.633);
+    overflow: hidden;
+}
+
+.footer-text {
+    font-size: 2em;
+    font-weight: bold;
+    animation: ticker 7s linear infinite;
+}
+
+@keyframes ticker {
+    0% {
+        transform: translateX(-100%); 
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
 }
