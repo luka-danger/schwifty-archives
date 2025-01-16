@@ -14,12 +14,12 @@ While the prompt for this project was to create a weather app using the Weather 
 The full challenge description can be found here: https://www.theodinproject.com/lessons/node-path-javascript-weather-app
 
 ## Screenshots: 
-![Home](/screenshots/Home.png)
+![Home](screenshots/Home.png)
 
-![Console-JSON](/screenshots/Console-JSON.png)
+![Console-JSON](screenshots/Console-JSON.png)
 
-![Pagination](/screenshots/Pagination.png)
+![Pagination](screenshots/Pagination.png)
 
-![Search](/screenshots/Search.png)
+![Search](screenshots/Search.png)
 
-![Search-Paginate](/screenshots/Search-Paginate.png)
+![Search-Paginate](screenshots/Search-Paginate.png)
