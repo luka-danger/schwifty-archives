@@ -13,7 +13,10 @@ h3 {
     font-size: 1.5em;
 }
 
-#container,
+#container {
+    margin-bottom: 6rem; 
+}
+
 #pagination,
 #searchInput {
     margin-bottom: 1.5rem;
@@ -37,8 +40,11 @@ button {
 
 .footer {
     padding: 20px;
-    background-color: rgba(211, 211, 211, 0.633);
+    background-color: rgba(211, 211, 211, 0.688);
     overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
 }
 
 .footer-text {
