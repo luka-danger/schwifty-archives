@@ -1,3 +1,4 @@
+// Create a new div to display each character in data
 export function showCharacter(characterArray) {
     const container = document.querySelector('#container');
     container.innerHTML = ''
@@ -6,6 +7,7 @@ export function showCharacter(characterArray) {
             <h2>${character.name}</h2>
             <img src='${character.image}'>
         `
+        // Display character data in console
         console.log(character);
     })
 }
