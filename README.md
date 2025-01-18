@@ -1,8 +1,8 @@
 # Schwifty Archives
-## Project 11: API App 
+## Project 12: API App 
 
 ## Description: 
-Welcome to my eleventh web development project! This is part of my coursework in The Odin Project, a free, open-source curriculum to learn fullstack web development! 
+Welcome to my twelfth web development project! This is part of my coursework in The Odin Project, a free, open-source curriculum to learn fullstack web development! 
 
 This project uses the Rick and Morty API to display characters from Rick and Morty, built using vanilla JS and CSS. The application features pagination (20 characters) and search functionality, allowing users to explore different characters from the show and filter results in real-time. 
 
